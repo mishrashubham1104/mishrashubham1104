@@ -1,3 +1,4 @@
+<img src="header.svg" width="100%" />
 # 👋 Hi, I'm Shubham Mishra
 
 I am a **Full Stack Developer** currently pursuing my **B.E. in Computer Engineering**. I specialize in building responsive, role-based web applications using the **MERN Stack** and **PHP**.
