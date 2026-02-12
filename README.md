@@ -17,6 +17,21 @@ I am a **Full Stack Developer** currently pursuing my **B.E. in Computer Enginee
 
 ### 📫 How to reach me:
 **LinkedIn:** [linkedin.com/in/shubham-mishra...](https://linkedin.com/in/shubham-mishra-2541003a7) 
+<br/>
+### 📊 My GitHub Activity
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmishrashubham1104&count_bg=%2338B2AC&title_bg=%230f172a&icon=eye.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mishrashubham1104&show_icons=true&bg_color=0f172a&title_color=38B2AC&text_color=ffffff" alt="Shubham's Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishrashubham1104&layout=compact&bg_color=0f172a&title_color=38B2AC&text_color=ffffff" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 *“Turning complex logic into clean, maintainable code.”*
 
