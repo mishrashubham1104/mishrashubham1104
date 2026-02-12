@@ -1,0 +1,26 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+          color: white;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          height: 200px;
+          border-radius: 10px;
+          text-align: center;
+        }
+        h1 { margin: 0; font-size: 35px; color: #38B2AC; }
+        p { margin: 5px 0 0; font-size: 18px; color: #94a3b8; }
+      </style>
+      <div class="container">
+        <h1>Shubham Mishra</h1>
+        <p>Full-Stack Developer | B.E. Computer Engineering</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
