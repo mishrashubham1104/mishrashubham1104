@@ -5,9 +5,11 @@ I am a **Full Stack Developer** currently pursuing my **B.E. in Computer Enginee
 
 
 
-### 🚀 What I'm working on
+### 🚀 My Projects
 - **PoojaConnect:** A MERN-stack service marketplace for spiritual professionals featuring JWT auth and Cloudinary integration.
   LearnSphere:** An E-Learning platform built with PHP and MySQL featuring secure session management
+
+- **NurtureCare:** NurtureCare is a comprehensive healthcare management platform designed to bridge the gap between professional caregivers and patients. Whether it's elderly care, post-surgery support, or specialized nursing, NurtureCare provides a seamless, secure experience for booking and managing home-based healthcare services.
 
 ### 🛠️ Tech Stack
 **Frontend:** React (Vite), Tailwind CSS, JavaScript (ES6+) 
