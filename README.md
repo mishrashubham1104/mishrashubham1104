@@ -12,13 +12,14 @@ I am a **Full Stack Developer** currently pursuing my **B.E. in Computer Enginee
 - **NurtureCare:** NurtureCare is a comprehensive healthcare management platform designed to bridge the gap between professional caregivers and patients. Whether it's elderly care, post-surgery support, or specialized nursing, NurtureCare provides a seamless, secure experience for booking and managing home-based healthcare services.
 
 ### 🛠️ Tech Stack
-**Frontend:** React (Vite), Tailwind CSS, JavaScript (ES6+) 
-**Backend:** Node.js, Express.js, Core PHP 
+**Frontend:** React Js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
+**Backend:** Node.js, Express.js, JWT Authentication
 **Database:** MongoDB (Mongoose), MySQL 
-**Tools:** Git, GitHub, Postman, XAMPP 
+**Tools:** Git, GitHub, Postman
 
 ### 📫 How to reach me:
-**LinkedIn:** [linkedin.com/in/shubham-mishra...](https://linkedin.com/in/shubham-mishra-2541003a7) 
+**LinkedIn:** [linkedin.com/in/shubham-mishra...](https://linkedin.com/in/shubham-mishra-2541003a7)  
+**Portfolio:**  https://portfolio-mauve-eight-zvbuimnlry.vercel.app 
 
 *“Turning complex logic into clean, maintainable code.”*
 
